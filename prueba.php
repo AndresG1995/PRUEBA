@@ -1,3 +1,3 @@
 <?php
-echo "Control php";
+echo "Prueba de Php";
 ?>
