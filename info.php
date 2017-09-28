@@ -1,3 +1,3 @@
 <?php
-echo "Prueba de commit con nueva rama"
+echo "Prueba de commit2 con nueva rama"
 ?>
